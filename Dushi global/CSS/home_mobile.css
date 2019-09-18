@@ -1,0 +1,8 @@
+.flex-container .items-container {
+  display: block;
+}
+
+.flex-container-footer {
+  display: flex;
+  direction: column;
+}
